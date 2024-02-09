@@ -1,0 +1,71 @@
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
+
+# Compiled source code
+*.dll
+*.exe
+
+# NuGet packages
+*.nuget.props
+*.paket.restore
+*.paket.lock
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.dll.refresh
+*.cache
+*.csproj.user
+*.resharper
+*.resharper.user
+
+# Rider files
+.idea/
+*.sln.iml
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider, Visual Studio Code, and Visual Studio 2019 directories
+.vscode/
+.vs2019/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure
+*.publishsettings
